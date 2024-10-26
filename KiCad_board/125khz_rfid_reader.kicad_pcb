@@ -3058,9 +3058,6 @@
   (gr_text "Vcc\nGND\nRx\nTx" (at 74.676 87.376) (layer "B.Fab") (tstamp bf73768b-4e63-45c1-87f9-6b859199ef64)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
-  (gr_text "I have used vias as a \nplaceholder for jump wires" (at 127.635 67.945) (layer "User.2") (tstamp 11f8cc50-08fa-4834-ab33-0dab0f3cb246)
-    (effects (font (size 3 3) (thickness 0.4)) (justify left bottom))
-  )
 
   (segment (start 108.331 69.723) (end 106.934 71.12) (width 0.75) (layer "F.Cu") (net 1) (tstamp 577ba8da-9ca7-4d3a-bf58-d58369d5f8e2))
   (segment (start 111.76 60.032) (end 111.76 68.072) (width 0.5) (layer "F.Cu") (net 1) (tstamp 5b38d000-6ea6-45a0-ad05-446d03feebe0))
