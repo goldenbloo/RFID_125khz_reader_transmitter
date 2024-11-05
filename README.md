@@ -1,5 +1,5 @@
 # RFID_125khz_reader_transmitter
-<t>Implementation of a 125 kHz RFID tag reader and transmitter. It utilizes the EM4100 protocol with Manchester encoding, using 64 cycles per bit.
+Implementation of a 125 kHz RFID tag reader and transmitter. It utilizes the EM4100 protocol with Manchester encoding, using 64 cycles per bit.
 The code is written in C for the Atmega8A and compiled using the avr-gcc compiler.<br>
 The schematic is based on Vassilis Serasidis's project: <a href=https://www.serasidis.gr/circuits/RFID_reader/125kHz_RFID_reader.htm>125 kHz RFID Reader</a> <br>
 The Manchester encoding algorithm is adopted from Atmel's application notes on Manchester encoding: <a href=https://ww1.microchip.com/downloads/en/AppNotes/Atmel-9164-Manchester-Coding-Basics_Application-Note.pdf>Atmel-9164 - Manchester Coding Basics.</a><br>
